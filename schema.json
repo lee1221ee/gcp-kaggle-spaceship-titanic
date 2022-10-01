@@ -1,0 +1,18 @@
+{
+  'schema': [
+    PassengerId:STRING,
+    HomePlanet:STRING,
+    CryoSleep:BOOLEAN,
+    Cabin:STRING,
+    Destination:STRING,
+    Age:INTEGER,
+    VIP:BOOLEAN,
+    RoomService:INTEGER,
+    FoodCourt:INTEGER,
+    ShoppingMall:INTEGER,
+    Spa:INTEGER,
+    VRDeck:INTEGER,
+    Name:STRING,
+    Transported:BOOLEAN
+  ]
+}
